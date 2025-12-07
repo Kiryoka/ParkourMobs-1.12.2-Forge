@@ -34,5 +34,4 @@
   ```text
   minecraft:ghast
   mutantbeasts:mutant_zombie
-
-  P.S. README BY NEURONETWORK ;)
+  
