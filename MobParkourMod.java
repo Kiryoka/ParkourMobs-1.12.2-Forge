@@ -1,3 +1,5 @@
+//Copyright (c) 2025 Кирюока and License MPL2.0
+
 package net.Intelligence.kiryoka;
 
 import net.minecraft.block.Block;
