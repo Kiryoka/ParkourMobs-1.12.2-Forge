@@ -1,0 +1,16 @@
+[
+{
+  "modid": "parkourmobs",
+  "name": "ParkourMobs",
+  "description": "Teaches mobs to jump over holes and obstacles like parkour!",
+  "version": "1.1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Kiryoka"],
+  "credits": "Intelligence Plus",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
