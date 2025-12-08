@@ -1,3 +1,4 @@
+//Copyright (c) 2025 Kiryoka
 package Kiryoka.Intelligence.Parkour;
 
 import net.minecraft.block.Block;
